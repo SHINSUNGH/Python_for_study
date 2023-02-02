@@ -12,7 +12,7 @@
 
 ![img](https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png)
 
-<img src="https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png" width="600" height="600"/>
 
 >## 2023년 2월 2일
 >
