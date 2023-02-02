@@ -11,7 +11,7 @@
 
 
 >
->![화성_갈끄니까앜!](https://img.hankyung.com/photo/202106/01.26421392.1.jpg)
+>![img](https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png)
 >
 >## 2023년 2월 2일
 >
