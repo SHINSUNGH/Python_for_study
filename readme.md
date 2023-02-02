@@ -11,7 +11,7 @@
 
 
 >
->[![Vue](/images/vue.png)](https://kr.vuejs.org/)
+>[![Vue](/images/vue.png)](https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202104/20/ab7c9cda-2fca-4205-8d10-540f5851823f.jpg)
 >
 >## 2023년 2월 2일
 >
