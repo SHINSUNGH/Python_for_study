@@ -10,9 +10,10 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">       <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
->
->![img](https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png)
->
+![img](https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png)
+
+<img src="https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png" width="200" height="400"/>
+
 >## 2023년 2월 2일
 >
 > 데이터 과학을 위한 파이썬 프로그래밍 1~89p
