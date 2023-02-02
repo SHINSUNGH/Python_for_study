@@ -52,9 +52,13 @@
 >   >print (a)
 >   >```
 >   >
->   > ##### 
+>   > ##### 위 코드를 쳐보면 결과값이 2라고 나온다.
 >   >
->   > ##### 
+>   >This is a normal paragraph:
+
+>   > a + = 1
+>   > print (a)    
+>   >end code block.
 
 
 
