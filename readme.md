@@ -1,5 +1,5 @@
 
-# 그냥저냥 Git 연습할겸 공부한거 복습할겸 만드는 마크다운
+# 그냥저냥 Git 연습할겸 복습할겸 만드는 마크다운
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSHINSUNGH%2FPython_for_study&count_bg=%23255694&title_bg=%23555555&icon=python.svg&icon_color=%23479768&title=Welcome_for_students&edge_flat=false)](https://hits.seeyoufarm.com)
 
