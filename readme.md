@@ -12,7 +12,7 @@
 
 
 
->## 2023년 2월 2일  <img src="https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png" width="80" height="80"/>
+>## 2023년 2월 2일  <img src="https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png" width="25" height="25"/>
 >
 > 데이터 과학을 위한 파이썬 프로그래밍 1~89p  
 >
