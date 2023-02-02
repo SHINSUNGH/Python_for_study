@@ -11,11 +11,10 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png" width="500" height="500"/>
 
 >## 2023년 2월 2일
 >
-> 데이터 과학을 위한 파이썬 프로그래밍 1~89p
+> 데이터 과학을 위한 파이썬 프로그래밍 1~89p  <img src="https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png" width="100" height="100"/>
 >
 >   > ## 자료형과 기본 연산
 >   >
