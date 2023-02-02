@@ -18,6 +18,8 @@
 >
 >   > ## 자료형과 기본 연산
 >   >
+>   > This is a normal paragraph:
+>   >
 >   > ##### 정수형 = 자연수 (0, 1, 2, -1, -2)
 >   > 
 >   > ##### 실수형 = 소수점이 포함된 값 (0.1, 4.12)
@@ -25,6 +27,8 @@
 >   > ##### 문자형 = 값이 문자로 출력되는 자료 ('이 안에 들어와있는 데이터')
 >   > 
 >   > ##### 불린형 = 참(Ture), 거짓(False) 으로 표현하는 값.
+>   >
+>   > end code block.
 >
 >    ***
 >
@@ -59,29 +63,4 @@
 >   >a + = 1
 >   >print (a)
 >   >```
-
-
-
-# 커맨드
-# git 연습
-## git 연습
-### git 연습
-#### git 연습
-##### git 연습
-###### git 연습
-
-> This is a first blockqute.
->	> This is a second blockqute.
->	>	> This is a third blockqute.
-
-This is a normal paragraph:
-
-    This is a code block.
-    
-end code block.
-
-[Google](https://www.naver.com, "google link")
-
-```python
-print('hello')
-```
+>   > 
