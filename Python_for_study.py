@@ -100,10 +100,10 @@
 # for i in range(1,11,1):
 #     print(i)
 
-for i in range(2,10):
-    print ('\n -----', i, '단 -----')
-    for j in range(1,10):
-        print (i, '*', j, '=', i*j)
+# for i in range(2,10):
+#     print ('\n -----', i, '단 -----')
+#     for j in range(1,10):
+#         print (i, '*', j, '=', i*j)
 
 
 
@@ -112,3 +112,109 @@ for i in range(2,10):
 #     print ('        3단',j)
 # for k in range(4,37,4):
 #     print('                4단',k)
+
+
+# for i in range(2,10):
+#      print ('\n -----', i, '단 -----')
+#      for j in range(1,10):
+#          if j == 5: break
+#          print (i, '*', j, '=', i*j)
+
+# for i in range(2,10):
+#      if (i%2) == 1: continue
+     
+#      print ('\n -----', i, '단 -----')
+#      for j in range(1,10):
+         
+#       print (i, '*', j, '=', i*j)
+
+# data = [1,2,3,4,5]
+# while(data):
+#     print(data.pop())
+
+# while(1):
+#     menu = input('1. 데이터 입력', '2.데이터 수정', '3.데이터 삭제','4.종료')
+#     if menu == '1':
+#         pass
+#     elif menu == '2':
+#         pass
+#     elif menu == '3':
+#         pass
+#     elif menu == '4':
+#         print ('프로그램 종료')
+#         break
+
+
+# import random;
+
+# guess_number = random.randint(1,100)
+# print ('1~100 중 숫자 맞춰보세요')
+# users_input = int(input())
+# while(users_input is not guess_number):
+#     if users_input > guess_number:
+#         print ("정답은 ", users_input, "보다 작습니다.")
+#     else:
+#         print ("정답은 ", users_input, "보디 큽니다.")
+#     users_input = int(input())
+# else:
+#     print ("입력한 숫자 ", users_input, "정답입니다.")
+    
+
+# import random
+# guess_num = random.randint(1~100)
+# print ('숫자 맞추세요')
+# users_num = int(input())
+# while(users_num is not guess_num):
+#     if users_num > guess_num:
+#         print ("DOWN")
+#     else:
+#         print ("UP")
+#     users_num = int(input())
+# else:
+#     print ("정답")
+
+
+# import random
+# guess_number = random.randint(1,100)
+# print ('1~100 중 숫자 맞춰보세요')
+# users_input = int(input())
+# while(users_input is not guess_number):
+#     if users_input > guess_number:
+#         print ("정답은 ", users_input, "보다 작습니다.")
+#     else:
+#         print ("정답은 ", users_input, "보디 큽니다.")
+#     users_input = int(input())
+# else:
+#     print ("입력한 숫자 ", users_input, "정답입니다.")
+
+# import random
+# num1 = random.randint(1,45)
+# while int((num2 = num1)):
+#     num  = random.randint(1,45):
+# else:
+#     print (num2)
+
+# result = []
+
+# for i in range(5):
+#     import random
+#     lotto = [0,0,0,0,0,0]
+#     for x in range(6):
+#         num = 0
+#         while(num in lotto):
+#             num = random.randint(1,45)
+#         lotto[x] = num
+#     lotto.sort()
+#     result.append(lotto)
+#     print (lotto)
+
+#     print (result)
+
+    # import random
+    # lotto = [0,0,0,0,0,0]
+    # while (num in lotto)
+    #     num = random.randint(1,100)
+import random
+for i in range(5):
+    print(sorted(random. sample(range(1,46),6)))
+    

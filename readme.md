@@ -1,5 +1,5 @@
 
-# 그냥저냥 Git 연습할겸 복습할겸 만드는 마크다운
+# 그냥저냥 Git 연습할겸 복습할겸 끄적이는 마크다운
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSHINSUNGH%2FPython_for_study&count_bg=%23255694&title_bg=%23555555&icon=python.svg&icon_color=%23479768&title=Welcome_for_students&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -12,7 +12,7 @@
 [API](https://docs.python.org/ko/3.9/library/index.html)
 
 
->## 2023년 2월 2일  <img src="https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png" width="20" height="20"/>
+>## 2023년 2월 2일 목요일 <img src="https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png" width="20" height="20"/>
 >
 > 데이터 과학을 위한 파이썬 프로그래밍 1~89p  
 >
@@ -76,3 +76,4 @@
 >   > ```
 >   > 위처럼 변수(colors)에 "red, blue, green" 이라는 리스트가 추가.
 >   > 
+>## 2023년 2월 3일 금요일 <img src="https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png" width="20" height="20"/>
