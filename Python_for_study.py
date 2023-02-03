@@ -214,7 +214,25 @@
     # lotto = [0,0,0,0,0,0]
     # while (num in lotto)
     #     num = random.randint(1,100)
+
+
+# import random
+# for i in range(5):
+#     print(sorted(random. sample(range(1,46),6)))
+
+
+
 import random
-for i in range(5):
-    print(sorted(random. sample(range(1,46),6)))
-    
+num = random. sample(range(1,31),3)
+user_input_1 = int(input())
+user_input_2 = int(input())
+user_input_3 = int(input())
+print (num)
+
+    while ():
+        if user_input_1 in num:
+            print ("볼")
+        if user_input_2 in num:
+            print ("볼")
+        if user_input_3 in num:
+            print ("볼")
