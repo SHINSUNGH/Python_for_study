@@ -9,14 +9,21 @@
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">       <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-[파이썬 코드 라이브러리](https://docs.python.org/ko/3.9/library/index.html)
+[API](https://docs.python.org/ko/3.9/library/index.html)
 
 
->## 2023년 2월 2일  <img src="https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png" width="25" height="25"/>
+>## 2023년 2월 2일  <img src="https://user-images.githubusercontent.com/123719167/216298746-85f9442b-f58e-4327-ae90-52c34d78dd6b.png" width="20" height="20"/>
 >
 > 데이터 과학을 위한 파이썬 프로그래밍 1~89p  
 >
 >   > ## 자료형과 기본 연산
+>   >
+>   >|형태|역할|예|
+>   >|:----:|:------------:|:-------:|
+>   >|정수형|자연수|0, 1, 2, 3, -1, -2|
+>   >|실수형|소수점이 포함된 값|0.1, 2.56|
+>   >|문자형|값이 문자로 출력되는 값|'여기 있는 값'|
+>   >|불린형|참(True), 거짓(False) 으로 표현하는 값||
 >   >
 >   > 정수형 = 자연수 (0, 1, 2, -1, -2)
 >   > 
@@ -30,6 +37,9 @@
 >
 >   > ## 간단한 연산
 >   >
+>   >  다 아는 그 사칙연산이 맞으니
+>   >  연산자 파트는 어떤 함수가 있는지 알아보기만 하자.
+>   >
 >   >  |연산자|역할|
 >   >  |:----:|:-------:|
 >   >  |+|더하기|
@@ -39,9 +49,6 @@
 >   >  |//|나눗셈의 몫|
 >   >  |%|나눗셈의 나머지|
 >   >  |**|제곱승|
->   >
->   >  그냥 다 아는 그 사칙연산이 맞으니
->   >  연산자 파트는 어떤 함수가 있는지 알아보기만 하자.
 >   > 
 >
 >   ***
@@ -69,9 +76,10 @@
 >   >  이미 a + 1 이라는 2인 값이 a 에 할당되기 때문
 >   > *** 
 >
->   > ### 리스트
+>   > ## 리스트
 >   > ```python
 >   > colors = ['red', 'blue', 'green']
 >   > 
 >   > ```
->   > 위처럼 변수(colors)에 
+>   > 위처럼 변수(colors)에 "red, blue, green" 이라는 리스트가 추가.
+>   > 
