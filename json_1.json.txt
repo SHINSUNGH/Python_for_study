@@ -1,0 +1,20 @@
+[
+  {
+    "name": "\uc2e0\uc131\ud601",
+    "address": "\ucda9\uc8fc",
+    "tel": "010-3650-3437",
+    "email": "shin1575631@gmail.com"
+  },
+  {
+    "name": "\uc2e0\uc131\uc8fc",
+    "address": "\ucda9\uc8fc",
+    "tel": "010-7550-9730",
+    "email": "ssj@gmail.com"
+  },
+  {
+    "name": "e",
+    "address": "e",
+    "tel": "e",
+    "email": "e"
+  }
+]
