@@ -85,8 +85,8 @@ def exit(card):
 
 
 
-# with open('json_1.json','r') as f:
-#     card = json.load(f)
+with open('json_1.json','r') as f:
+    card = json.load(f)
 
 while True:
     menu = input('''
